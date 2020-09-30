@@ -8,9 +8,10 @@ const Indexpage = ()=>{
     <Layout>
         <Helmet title={config.siteTitle}/>
         <div>
-        <h1>Hi, I am Aman</h1>
-        <p>I'm web developer specializing in modern javascript. I like to<br/> make things from scratch, contribute to open source,
-            and write <br/>about latest development in web technology.
+        <h1>환영합니다.</h1>
+        <p>아직은 좀 썰렁하죠? 
+        <br/>
+        깃헙 블로그를 처음 해봐서 그래요 조금만 기다려 주시면 더 멋진 블로그로 찾아올께요.
 
         </p>
         

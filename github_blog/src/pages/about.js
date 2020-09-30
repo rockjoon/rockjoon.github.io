@@ -20,7 +20,7 @@ const Aboutpage = () =>{
             <Helmet title={`Me - ${config.userName}`}/>
         <div>
             <h2>About me</h2>
-            <p>Hi ! I am <strong>Aman Kumar</strong> a Web enthusiast and Junior year student at IIT Patna. I like to spend my leisure time working on web projects.</p>
+            <p>Hi ! I am <strong>Rockjoon</strong>web developer</p>
             <br/>
             <h3 id="around-the-web">Around the web</h3><br/>
             <StaticQuery query={query} render={
